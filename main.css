@@ -1,0 +1,53 @@
+
+
+
+header{
+    background-image:url(back12.jpg); height: 800px; bottom: 200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: color;
+    background-size: 100%100%
+    
+    
+    
+}
+.history{
+    position: relative; left: 600px; bottom: 400px;
+}
+.geo1{
+    position: relative; bottom: 680px; left: 600px;
+}
+.geopic{
+    position: relative;  bottom: 1300px; 
+}
+.pale{
+    position: relative;  bottom: 1200px;
+}
+.palepic{position: relative; bottom: 1700px; left: 600px;
+
+}
+.navbarlist{ position: relative; bottom: 100px;
+
+}
+.about{
+    background-color:darkcyan; 
+    position: relative;
+    bottom: 600px;
+}
+.contact{
+    background-color: lightskyblue;
+    position: relative; left: 280px; bottom: 800px;
+}
+.opening{
+    background-color: deepskyblue;
+    position: relative; left: 600px; bottom: 950px;
+}
+.footers{
+    position: relative; bottom: 800px;
+}
+.youtube{
+    position: relative; right: 600px; bottom: 350px;
+}
+.geovid{position: relative;  left: 600px; bottom: 650px;
+
+}
